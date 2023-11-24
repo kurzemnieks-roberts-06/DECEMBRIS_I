@@ -5,3 +5,7 @@ Izveidojiet Python programmu, kas saskaita no 1 līdz lietotāja ievadītam skai
 class A:
     def __init__(self):
         
+        
+        
+     for():
+        while

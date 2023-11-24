@@ -7,5 +7,7 @@ class A:
         
         
         
-     for():
+    for():
         while
+        
+        print()
